@@ -9,7 +9,7 @@
   },
   "dependencies": {
     "acorn": "^8.4.0",
-    "core-js": "^3.14.0",
+    "core-js": "^3.15.0",
     "element-ui": "^2.15.2",
     "minimist": "^1.2.5",
     "serialize-javascript": "^5.0.1",
