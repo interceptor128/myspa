@@ -10,7 +10,7 @@
   "dependencies": {
     "acorn": "^8.4.1",
     "core-js": "^3.14.0",
-    "element-ui": "^2.15.2",
+    "element-ui": "^2.15.3",
     "minimist": "^1.2.5",
     "serialize-javascript": "^6.0.0",
     "vue": "^2.6.14",
